@@ -1,0 +1,56 @@
+.navbar-default .navbar-nav > li > a ,h1,p{
+    color: #ffffff;
+}
+/*h1,p{*/
+    /*color: #ffffff;*/
+    /*font-family: sans-serif;*/
+/*}*/
+.navbar-default{
+    background-color: #6b396c;
+}
+.hamburger{
+    border-radius: 50%;
+}
+img{
+    height: 30px;
+    width: 60px;
+}
+.hrLine{
+    margin: auto;
+    text-align: center;
+    /*display: inline-block;*/
+    width: 60px;
+    height: 3px;
+    background-color: #ffffff;
+
+}
+p{
+    font-size: 20px;
+    font-family: "Times New Roman", Georgia, Serif;
+    margin-top: 20px;
+}
+.reviews{
+    font-size: 50px;
+    font-weight: lighter;
+    font-family: "Roboto";
+}
+.myimg{
+    width: 100px;
+    height: 100px;
+    border: 2px solid #ffffff;
+ }
+
+.mycarousel{
+   height: 275px;
+}
+.myComments{
+    color: #AC4678;
+    border-radius: 5px;
+    height: 120px;
+    padding: 25px;
+    margin: 10px 20px 0px 20px ;
+}
+
+.upperRow{
+    margin-bottom: 35px;
+}
